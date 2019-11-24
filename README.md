@@ -3,9 +3,9 @@ Monte Carlo Simulation to demonstrate the [Monty Hall Problem](https://en.wikipe
 
 This simple simulation plays the famous 3 doors game from Let's Make a Deal thousands of times with both strategies:
 * Stick with the initial door chosen
-* Swap to the other door after the host reveals that the prize in not behind one of the other doors
+* Switch to the other door after the host reveals that the prize in not behind one of the other doors
 
 If the simulation is run with a large enough sample you will see that there is a clear winning strategy:
 * Stick wins 33% of the time
-* Swap wins 66% of the time
+* Switch wins 66% of the time
 
